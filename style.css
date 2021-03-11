@@ -1,64 +1,37 @@
-body{
-    font-family: 'Ballet', cursive;
+body {
+    background: #ffffff;
+    margin: 120px;
+    height: 120px;
+    }
+.display {
+    overflow: auto;
+    background-color: white;
+    height: 50px;
 }
-.Pups{
-    background-color: rgb(43 46 66);
-    height: 400px;
-    width: 400px;
-    margin: 40;
-    padding: 10;
-    border: 5px solid black;
+table {
+    background-color: rgb(255, 255, 255);
+    height: 388px;
+    width: 253px;
+    border: 2px solid;
 }
-.Pups_super{
-    text-indent: 20;
-    font-size: 19;
-    line-height: 1.2;
-    font-style: oblique;
+tr {
+    background-color: aquamarine;
 }
-.Energy{
-    background-color:rgb(226, 92, 92);
-    height: 500px;
-    width: 500px;
-    margin: 40;
-    padding: 10;
-    border: 5px solid rgb(2, 1, 1);
+.wrapper {
+	margin: 0 auto;
+	overflow: hidden;
+    width: 251px;
+    height: 386px;
+	background: url(fon.jpg);
+	border-radius: 10px;
+	border: 1px solid #949493;
+	box-shadow: 3px 3px 7px #000;
 }
-.Energy_metal{
-    text-indent: 20;
-    font-size: 19;
-    line-height: 1.2;
-    font-style: oblique;
+input {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(69, 226, 205);
 }
-.Pupsik{
-    background-color: rgb(43 46 66);
-    height: 500px;
-    width: 500px;
-    margin: 40;
-    padding: 10;
-    border: 5px solid black;
-}
-.Pupsik_super{
-    text-indent: 20;
-    font-size: 19;
-    line-height: 1.2;
-    font-style: oblique;
-}
-.Energyt{
-    background-color:rgb(226, 92, 92);
-    height: 500px;
-    width: 500px;
-    margin: 40;
-    padding: 10;
-    border: 5px solid rgb(2, 1, 1);
-    border-radius: 20%;
-}
-.Energyt_metal{
-    text-indent: 30;
-    font-size: 19;
-    line-height: 1.2;
-    font-style: oblique;
-}
-body{
-    background: url(./unnamed.jpg);
-    color:#ffffff;
+.displaytwo {
+    height: 40px;
 }
