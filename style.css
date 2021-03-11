@@ -1,0 +1,64 @@
+body{
+    font-family: 'Ballet', cursive;
+}
+.Pups{
+    background-color: rgb(43 46 66);
+    height: 400px;
+    width: 400px;
+    margin: 40;
+    padding: 10;
+    border: 5px solid black;
+}
+.Pups_super{
+    text-indent: 20;
+    font-size: 19;
+    line-height: 1.2;
+    font-style: oblique;
+}
+.Energy{
+    background-color:rgb(226, 92, 92);
+    height: 500px;
+    width: 500px;
+    margin: 40;
+    padding: 10;
+    border: 5px solid rgb(2, 1, 1);
+}
+.Energy_metal{
+    text-indent: 20;
+    font-size: 19;
+    line-height: 1.2;
+    font-style: oblique;
+}
+.Pupsik{
+    background-color: rgb(43 46 66);
+    height: 500px;
+    width: 500px;
+    margin: 40;
+    padding: 10;
+    border: 5px solid black;
+}
+.Pupsik_super{
+    text-indent: 20;
+    font-size: 19;
+    line-height: 1.2;
+    font-style: oblique;
+}
+.Energyt{
+    background-color:rgb(226, 92, 92);
+    height: 500px;
+    width: 500px;
+    margin: 40;
+    padding: 10;
+    border: 5px solid rgb(2, 1, 1);
+    border-radius: 20%;
+}
+.Energyt_metal{
+    text-indent: 30;
+    font-size: 19;
+    line-height: 1.2;
+    font-style: oblique;
+}
+body{
+    background: url(./unnamed.jpg);
+    color:#ffffff;
+}
